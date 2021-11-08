@@ -31,8 +31,10 @@
     border-bottom: 3px solid var(--text);
     background-color: transparent;
     padding: 5px 30px;
-    font-size: 3rem;
+    font-size: 2rem;
     color: var(--text);
+    width: 90%;
+    text-align: center;
 }
 
 .message {
